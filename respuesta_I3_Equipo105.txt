@@ -13,4 +13,6 @@ G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedid
 a)El master queda fusionado junto a todas las ramas
 b)Si, se puede ver los cambios realizados
 c)Los comandos utilizados fueron:  git checkout main para moverme a la rama master y desde alli utilizar el comando $ git merge Cardozo, para fusionar la rama elegida
-
+d)No, quedan con los datos que subieron en cada rama en particular
+e)No, no tuvimos problemas al realizar el merge
+f)(echo -e "Nombre y apellido: Federico Cardozo " && ipconfig && echo -e "\nHora: \c" && date +%H:%M:%S) >> beta.txt
