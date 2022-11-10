@@ -6,3 +6,8 @@ Nombre y apellido: Abril Uberti
 
 IP:192.164.0.225
 Horario:16:20
+
+Nombre y apellido: Joaquin Canepa
+
+IP:192.168.0.162
+Horario:16:29
